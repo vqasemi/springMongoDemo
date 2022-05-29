@@ -9,4 +9,4 @@ Some **bold** text
 Some *italic* text
 
 
-in feature branch
+in feature branch  new changes in feature branch
