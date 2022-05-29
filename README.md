@@ -7,3 +7,6 @@ This changes should be applied to teh main branch
 Some **bold** text
 
 Some *italic* text
+
+
+Some changes for new branch
